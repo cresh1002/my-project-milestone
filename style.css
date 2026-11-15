@@ -410,7 +410,7 @@ nav a:hover {
 .features {
   padding: 55px;
   text-align: center;
-  background-color: gray;
+  background-color: rgb(29, 29, 167);
 }
 
 .features h2 {
@@ -435,7 +435,7 @@ nav a:hover {
 }
 
 .card h3 {
-  color: rgb(80, 83, 84);
+  color: rgb(29, 29, 167);
   font-size: 35px;
   margin-bottom: 40px;
 }
