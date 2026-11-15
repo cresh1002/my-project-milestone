@@ -425,10 +425,10 @@ nav a:hover {
 }
 
 .card {
-  background-color: lightgray;
+  background-color: rgb(79, 18, 219);
 
-  width: 225px;
-  padding: 35px;
+  width: 220px;
+  padding: 30px;
 
   border-radius: 15px;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
