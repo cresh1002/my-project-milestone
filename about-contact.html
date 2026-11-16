@@ -28,6 +28,41 @@
             <h3>Some of my favorite foods are  chicken and dumplins and fried chicken.</h3>
             <section>My contact information is my emial, which is, cjresh2000@gmail.com</section>
             <footer id="end">Thanks for reading about me!</footer>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" required>
+
+            <br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" required>
+
+            <br><br>
+
+            <label for="subject">Subject:</label>
+            <input type="text" id="subject" required>
+
+            <br><br>
+
+            <label for="message">Message:</label>
+            <textarea id="message" required minlength="10"></textarea>
+
+            <br><br>
+
+            <fieldset>
+                <legend>Preferred Contact Method:</legend>
+                
+                <label>
+                    <input type="radio" name="contact" value="email">
+                    Email
+                </label>
+
+                <label>
+                    <input type="radio" name="contact" value="phone">
+                    Phone
+                </label>
+            </fieldset>
+        </form>
     
 </body>
 </html>
