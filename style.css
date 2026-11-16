@@ -436,13 +436,14 @@ nav a:hover {
 
 .card h3 {
   color: rgb(29, 29, 167);
-  font-size: 35px;
+  font-size: 45px;
   margin-bottom: 40px;
-  font-weight: bold;
+
 }
 
 .card p {
-  font-size: 20px;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 
