@@ -2,3 +2,5 @@ Index.html page: The alt text for my wireframe picture was the same has the name
 Index.html page: There was very low contrast between text color and the background color so I changed the text color to white.
 About/Contact.html page: There was very low contrast between the text color and the background so color so I changed the text color to white.
 Projects/Work.html page: There was very low contrast between the text color and the background color so i changed the text color to white.
+I added proximity to my links so that they were together and people could find them easier.
+I used similarity on my projects so that they were together and people could tell that they were similar.
